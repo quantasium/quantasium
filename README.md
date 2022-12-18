@@ -10,4 +10,4 @@ I'm a fullstack web developer who specializes in Nuxt & Vue for NodeJS. I also p
 
 I don't very many projects yet, but I have tons of projects that I'm working on in the background.
 
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=quantasium&repo=notebox&show_owner=true" alt="Notebox Repo by @quantasium"/>](https://github.com/quantasium/supernova)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=quantasium&repo=supernova&show_owner=true" alt="Notebox Repo by @quantasium"/>](https://github.com/quantasium/supernova)
