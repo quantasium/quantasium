@@ -15,3 +15,7 @@ I'm still in early development for most of my projects, but here they are:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=checkmatesw&repo=checkmate&show_owner=true)](https://github.com/checkmatesw/checkmate)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=quantasium&repo=acsl-practice&show_owner=true)](https://github.com/quantasium/acsl-practice)
+
+## Tech Stack
+
+Since most of my projects are small to medium sized, I use [Sveltekit](https://kit.svelte.dev/) & [TailwindCSS](https://tailwindcss.com/) for the frontend and [Pocketbase](https://pocketbase.io) for the backend.
